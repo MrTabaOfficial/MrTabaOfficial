@@ -2,7 +2,7 @@
 
 Software engineer from Tbilisi, Georgia. My day job is mobile: React Native apps, the native Android code underneath them, and releases to Google Play and the App Store. Outside work I build open-source projects across the stack: desktop apps, full websites with their backends, and networking tools in Rust. I've worked with PostgreSQL, SQL Server, MongoDB and SQLite.
  
-🌍 **Open to remote roles** with European and US teams (UTC+4: full overlap with CET, can work US East Coast hours).
+🌍 **Open to remote roles** with European teams (UTC+4, full overlap with CET).
  
 ---
  
@@ -27,6 +27,8 @@ Software engineer from Tbilisi, Georgia. My day job is mobile: React Native apps
 - **[Tsili](https://github.com/MrTabaOfficial/Tsili-Project)**: offline-first expense-splitting app (React Native, Node.js)
 - **[Wardline](https://github.com/MrTabaOfficial/Wardline)**: Android messenger with encrypted chats (Java, Firebase)
 - **[Upsure](https://github.com/TabaLabs/Upsure)**: resumable file uploads, published on npm (TypeScript)
+- **[Reccoon](https://github.com/MrTabaOfficial/Reccoon)**: free Windows screen recorder that records on the GPU (Rust)
+- **[NetFuse](https://github.com/MrTabaOfficial/NetFuse)**: uses all your internet connections at once on Windows (Rust, Tauri)
 - **[Dalaki](https://github.com/MrTabaOfficial/Barbershop-Booking-System)**: booking system with Stripe deposits (React, Express, PostgreSQL)
 - **[ModernTechnics](https://github.com/MrTabaOfficial/ModernTechnics-Management-System)**: back-office desktop app for a store (C#, .NET)
 
