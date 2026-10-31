@@ -1,9 +1,6 @@
-### 👋 Hi, I'm Saba Tchumburidze · Software Engineer
+### 👋 Hi, Welcome to my profile
 
-Software engineer from Tbilisi, Georgia. My day job is mobile: React Native apps, the native Android code underneath them, and releases to Google Play and the App Store. Outside work I build open-source projects across the stack: desktop apps, full websites with their backends, and networking tools in Rust. I've worked with PostgreSQL, SQL Server, MongoDB and SQLite.
- 
-🌍 **Open to remote roles** with European teams (UTC+4, full overlap with CET).
- 
+Software engineer from Tbilisi, Georgia.  
 ---
  
 #### 🧰 Skills
